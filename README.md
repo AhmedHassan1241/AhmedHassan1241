@@ -1,18 +1,44 @@
-Hi, I’m ***Ahmed Hassan*** 👋, an aspiring * *React Front-End Developer* * actively participating in the Digital Egypt Pioneers Initiative **(DEPI)** 🌟. I am passionate about creating engaging and user-friendly web applications 💻. Currently, I am building a foundation in ***React.js***⚛️ while also studying the basics of ***Node.js***🟢, ***Express***📦, and ***MongoDB***🗄️, which enables me to understand * *full-stack development* *.
+👋 Hi, I’m Ahmed Hassan — Aspiring Full-Stack Web Developer 🚀
+I'm actively participating in the Digital Egypt Pioneers Initiative (DEPI) 🌟 and passionate about building engaging and user-friendly web applications 💻.
+I started my journey focusing on React.js for front-end development and have since expanded into the backend with Node.js, Express, PHP, Laravel, and MySQL, enabling me to build complete and scalable full-stack solutions.
 
-**Key Skills:**
+🛠 Key Skills
+Front-End Development:
+⚛️ React.js – Building dynamic, reusable components and interactive UIs.
 
-- ⚛️ **React.js** : Developing dynamic and interactive user interfaces 🎨.
-- 💻 **JavaScript** : Learning programming fundamentals to create efficient web applications 📈.
-- 🟢 **Node.js** : Basic knowledge of server-side development and API creation. 🔧.
-- 📦 **Express** : Understanding of building web applications and RESTful APIs
-- 🗄️ **MongoDB** : Understanding NoSQL databases for data storage and management 📊.
-- 🎨 **HTML** : Skilled in creating structured and semantic web content. 📱.
-- 🎨 **CSS** : Knowledge of styling web applications with responsive design techniques.. 📱.
-- 🐙 **Git** : Basic understanding of version control and collaboration using Git.
-- 🧩 **Problem-Solving** : Strong analytical skills to troubleshoot and resolve coding issues.
-- 🤝 **Team Collaboration** : Experience working in teams and participating in group projects.
-I am eager to connect with professionals in the tech community to share insights, seek mentorship, and explore entry-level opportunities where I can contribute and grow 🌱. Let’s connect and discuss the exciting world of web development! 🤝"
+💻 JavaScript (ES6+) – Solid understanding of modern JavaScript.
+
+🧱 HTML5 & CSS3 – Writing semantic markup and responsive designs with Flexbox & Grid.
+
+🎨 Bootstrap & TailwindCSS – Styling efficient and elegant front-end layouts.
+
+Back-End Development:
+🐘 PHP – Writing backend logic and working with MVC patterns.
+
+🚀 Laravel – Building structured, scalable RESTful APIs and web apps.
+
+🟢 Node.js – Server-side scripting and asynchronous programming.
+
+📦 Express.js – Handling routing, middleware, and API endpoints.
+
+Databases:
+🗄️ MySQL – Managing relational databases and complex SQL queries.
+
+🗂️ MongoDB – Working with NoSQL data structures and collections.
+
+Tools & Workflows:
+🐙 Git & GitHub – Version control and team collaboration.
+
+🧠 Problem-Solving – Debugging and analyzing complex logic issues.
+
+🤝 Teamwork – Experience in collaborative projects and agile environments.
+
+I'm eager to grow, learn from experienced developers, and contribute to exciting projects.
+If you're hiring, mentoring, or just want to connect, feel free to reach out — I’m open to collaboration and new opportunities! 🌱✨
+
+
+
+
 <!--
 **AhmedHassan1241/AhmedHassan1241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
