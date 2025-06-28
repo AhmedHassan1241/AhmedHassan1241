@@ -1,90 +1,60 @@
-# 👋 Hi, I’m Ahmed Hassan — Full-Stack Web Developer (Laravel + React)
+## 👋 Hi, I’m Ahmed Hassan
 
-I’ve successfully completed the **Digital Egypt Pioneers Initiative (DEPI)** 🌟 — a national program focused on empowering youth in software development.
+I'm a **Junior React Developer** currently transitioning into **Back-End Development with Laravel**.
 
-I began my journey with **React.js** for front-end development, gaining hands-on experience building dynamic UIs and working on real-world projects.
-
-Later, I developed **basic experience with Node.js and Express**, which gave me valuable insight into backend APIs and full-stack development.
+🚀 I’ve successfully completed the **Digital Egypt Pioneers Initiative (DEPI)** — a national program dedicated to empowering youth in software development.
 
 ---
 
-## 🎯 Currently Focused On:
-Specializing in **Laravel (Back-End)** — building scalable RESTful APIs, applying clean architecture principles, and managing relational databases like MySQL.
+### 💻 My Journey So Far:
+
+- **Started with Front-End**: Built dynamic, responsive UIs using **React.js**, practicing component-based architecture and real-world UI projects.
+- **Explored Full-Stack**: Gained backend fundamentals with **Node.js** and **Express**, understanding how APIs work and how servers handle logic.
+- **Currently Focused On**: Back-End development with **Laravel**, building RESTful APIs, applying **Clean Architecture**, and working with **MySQL** for relational databases.
 
 ---
 
-## ✨ I’m passionate about:
-- Writing clean, maintainable code
-- Solving real-world business problems
-- Collaborating in team environments
+### 🎯 Interests & Goals
+
+- Writing clean, maintainable, and scalable code  
+- Solving real-world problems through code  
+- Growing in team-based, agile environments  
 
 ---
 
-## 📌 Open To:
-- **Back-End Laravel Developer** roles  
-- **Full-Stack opportunities** where Laravel is the core
+### 🔍 Open To Opportunities
+
+- **Junior Laravel Back-End Developer Roles**  
+- **Full-Stack Roles** with Laravel as a core technology  
 
 ---
 
-## 🛠 Key Skills
+### 🛠️ Tech Stack & Skills
 
-### 🧩 Front-End Development:
-- ⚛️ **React.js** – Building dynamic, reusable components and interactive UIs.
-- 💻 **JavaScript (ES6+)** – Solid understanding of modern JavaScript.
-- 🧱 **HTML5 & CSS3** – Semantic markup and responsive layouts using Flexbox & Grid.
-- 🎨 **Bootstrap & TailwindCSS** – Designing elegant and responsive UIs.
+#### 🧩 Front-End
+- ⚛ **React.js** – Component-based UIs & Hooks  
+- 💻 **JavaScript (ES6+)** – Modern syntax & async logic  
+- 🧱 **HTML5 & CSS3** – Semantic, accessible markup  
+- 🎨 **Bootstrap & Tailwind CSS** – Clean, responsive design  
 
-### ⚙️ Back-End Development:
-- 🐘 **PHP** – Writing backend logic and working with MVC patterns.
-- 🚀 **Laravel** – Building structured, scalable RESTful APIs and web apps.
-- 🟢 **Node.js** – Server-side scripting and asynchronous programming.
-- 📦 **Express.js** – Routing, middleware, and handling API requests.
+#### ⚙ Back-End
+- 🐘 **PHP** – MVC basics and backend logic  
+- 🚀 **Laravel** – RESTful APIs, clean structure, auth  
+- 🟢 **Node.js** & 📦 **Express.js** – Middleware & routing basics  
 
-### 🗄️ Databases:
-- 🗄️ **MySQL** – Designing relational databases and complex SQL queries.
-- 🗂️ **MongoDB** – Working with NoSQL structures and collections.
+#### 🗄 Databases
+- 🗄 **MySQL** – Structured schemas & SQL queries  
+- 🗂 **MongoDB** – Intro to NoSQL document DBs  
 
-### 🧰 Tools & Workflows:
-- 🐙 **Git & GitHub** – Version control and team collaboration.
-- 🧠 **Problem Solving** – Debugging and analyzing complex logic issues.
-- 🤝 **Teamwork** – Experienced in collaborative and agile team projects.
-
----
-
-## 🌱 Let’s Connect!
-I'm eager to grow, learn from experienced developers, and contribute to exciting projects.  
-If you're **hiring**, **mentoring**, or **looking to collaborate** — feel free to reach out!
+#### 🧰 Tools & Workflows
+- 🐙 **Git & GitHub** – Version control & teamwork  
+- 🧠 **Problem Solving** – Debugging, logical thinking  
+- 🤝 **Teamwork** – Open to collaboration & mentorship  
 
 ---
 
-<!--
-**AhmedHassan1241/AhmedHassan1241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Let’s Connect!
 
-Here are some ideas to get you started:
+I'm passionate about building things that matter, continuously learning, and contributing to impactful teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<!--
-**AhmedHassan1241/AhmedHassan1241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🔗 If you're **hiring**, **mentoring**, or open to **collaboration**, don’t hesitate to reach out!
