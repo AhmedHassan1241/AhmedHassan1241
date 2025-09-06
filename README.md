@@ -1,60 +1,53 @@
-## 👋 Hi, I’m Ahmed Hassan
+# 👋 Hi, I’m Ahmed Hassan  
 
-I'm a **Junior React Developer** currently transitioning into **Back-End Development with Laravel**.
-
-🚀 I’ve successfully completed the **Digital Egypt Pioneers Initiative (DEPI)** — a national program dedicated to empowering youth in software development.
+A **Laravel Back-End Developer** with a background in ⚛️ React.js and full-stack training through the 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)**.  
 
 ---
 
-### 💻 My Journey So Far:
-
-- **Started with Front-End**: Built dynamic, responsive UIs using **React.js**, practicing component-based architecture and real-world UI projects.
-- **Explored Full-Stack**: Gained backend fundamentals with **Node.js** and **Express**, understanding how APIs work and how servers handle logic.
-- **Currently Focused On**: Back-End development with **Laravel**, building RESTful APIs, applying **Clean Architecture**, and working with **MySQL** for relational databases.
-
----
-
-### 🎯 Interests & Goals
-
-- Writing clean, maintainable, and scalable code  
-- Solving real-world problems through code  
-- Growing in team-based, agile environments  
+## 🔹 Currently Focusing On  
+- 🐘 **Laravel & PHP** — building RESTful APIs, applying clean architecture, and working with 🗄 MySQL.  
+- ⚛️ Started with **React.js** for building dynamic UIs.  
+- 🟢 Experienced in **Node.js & Express.js** for APIs and full-stack workflows.  
 
 ---
 
-### 🔍 Open To Opportunities
-
-- **Junior Laravel Back-End Developer Roles**  
-- **Full-Stack Roles** with Laravel as a core technology  
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### 🧩 Front-End
-- ⚛ **React.js** – Component-based UIs & Hooks  
-- 💻 **JavaScript (ES6+)** – Modern syntax & async logic  
-- 🧱 **HTML5 & CSS3** – Semantic, accessible markup  
-- 🎨 **Bootstrap & Tailwind CSS** – Clean, responsive design  
-
-#### ⚙ Back-End
-- 🐘 **PHP** – MVC basics and backend logic  
-- 🚀 **Laravel** – RESTful APIs, clean structure, auth  
-- 🟢 **Node.js** & 📦 **Express.js** – Middleware & routing basics  
-
-#### 🗄 Databases
-- 🗄 **MySQL** – Structured schemas & SQL queries  
-- 🗂 **MongoDB** – Intro to NoSQL document DBs  
-
-#### 🧰 Tools & Workflows
-- 🐙 **Git & GitHub** – Version control & teamwork  
-- 🧠 **Problem Solving** – Debugging, logical thinking  
-- 🤝 **Teamwork** – Open to collaboration & mentorship  
+## ✨ Passionate About  
+- 🧼 Writing clean, maintainable code  
+- 🧩 Solving real-world problems  
+- 🤝 Team collaboration & continuous learning  
 
 ---
 
-### 🌱 Let’s Connect!
+## 📌 Open To  
+💼 **Junior Laravel/PHP Back-End Developer Roles**  
+🚀 **Opportunities to build scalable back-end solutions and grow my expertise**  
 
-I'm passionate about building things that matter, continuously learning, and contributing to impactful teams.
+---
 
-> 🔗 If you're **hiring**, **mentoring**, or open to **collaboration**, don’t hesitate to reach out!
+## 🛠 Key Skills  
+
+**Back-End**  
+🐘 PHP | 🚀 Laravel | 🗄 MySQL | 🔗 APIs | 🟢 Node.js | 📦 Express.js  
+
+**Front-End**  
+⚛️ React.js | 💻 JavaScript (ES6+) | 🧱 HTML5 | 🎨 CSS3 | 🎀 Bootstrap | 🌈 TailwindCSS  
+
+**Databases**  
+🗄 MySQL | 🗂 MongoDB  
+
+**Tools**  
+🐙 Git | 📂 GitHub | 📡 cPanel | 🖥 Linux Bash Commands  
+
+**Concepts**  
+📐 SOLID | 🏗 OOD | 🧱 Clean Architecture | 📖 Familiar with some DDD concepts  
+
+---
+
+## 🌱 Always Eager To  
+- Grow and improve my skills  
+- Learn from experienced developers  
+- Contribute to impactful projects  
+
+---
+
+💬 **Let’s Connect!**  
