@@ -1,53 +1,66 @@
-# 👋 Hi, I’m Ahmed Hassan  
+# 👋 Hi, I'm Ahmed Hassan
 
-A **Junior Laravel Back-End Developer** with a background in ⚛️ React.js and full-stack training through the 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)**.  
-
----
-
-## 🔹 Currently Focusing On  
-- 🐘 **Laravel & PHP** — building RESTful APIs, applying clean architecture, and working with 🗄 MySQL.  
-- ⚛️ Started with **React.js** for building dynamic UIs.  
-- 🟢 Experienced in **Node.js & Express.js** for APIs and full-stack workflows.  
+A **Junior Laravel Back-End Developer** passionate about building scalable web applications and clean, maintainable code.
+Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands-on experience in both **Backend (Laravel/PHP)** and **Frontend (React.js)** development.
 
 ---
 
-## ✨ Passionate About  
-- 🧼 Writing clean, maintainable code  
-- 🧩 Solving real-world problems  
-- 🤝 Team collaboration & continuous learning  
+## 🚀 About Me
+
+* 🐘 Currently mastering **Laravel**, **PHP**, and **MySQL**
+* ⚛️ Started with **React.js** to build interactive UIs
+* 💡 Interested in clean architecture, REST APIs, and software design principles
+* 🌱 Always learning, always improving
 
 ---
 
-## 📌 Open To  
-💼 **Junior Laravel/PHP Back-End Developer Roles**  
-🚀 **Opportunities to build scalable back-end solutions and grow my expertise**  
+## 🛠️ Tech Stack
+
+**Backend:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+**Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge\&logo=cpanel\&logoColor=white)
 
 ---
 
-## 🛠 Key Skills  
+## 📊 GitHub Stats
 
-**Back-End**  
-🐘 PHP | 🚀 Laravel | 🗄 MySQL | 🔗 APIs | 🟢 Node.js | 📦 Express.js  
-
-**Front-End**  
-⚛️ React.js | 💻 JavaScript (ES6+) | 🧱 HTML5 | 🎨 CSS3 | 🎀 Bootstrap | 🌈 TailwindCSS  
-
-**Databases**  
-🗄 MySQL | 🗂 MongoDB  
-
-**Tools**  
-🐙 Git | 📂 GitHub | 📡 cPanel | 🖥 Linux Bash Commands  
-
-**Concepts**  
-📐 SOLID | 🏗 OOD | 🧱 Clean Architecture | 📖 Familiar with some DDD concepts  
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHassan\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassan\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedHassan\&theme=tokyonight)
 
 ---
 
-## 🌱 Always Eager To  
-- Grow and improve my skills  
-- Learn from experienced developers  
-- Contribute to impactful projects  
+## 🧩 Featured Projects
+
+* 🛒 [Basic E-commerce CRUD](https://github.com/AhmedHassan/Basic-E-commerce-CRUD) — foundational CRUD system with a fake DB
+* 🎬 [Movie App](https://github.com/AhmedHassan/Movie-app) — React app fetching movies via API
+* 🌐 [Social App](https://github.com/AhmedHassan/Social-App) — interactive social platform with posts and comments
 
 ---
 
-💬 **Let’s Connect!**  
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-hassan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ahmedhassan.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AhmedHassan)
+
+---
+
+⭐ **“Code with purpose, learn with passion.”**
