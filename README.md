@@ -3,8 +3,12 @@
 🎯A **Junior Laravel Back-End Developer** with a background in ⚛️ React.js and full-stack training through the 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)**.  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=🐘+Laravel+%7C+PHP+Developer;⚛️+React.js+Front-End+Experience;🚀+API+%26+Clean+Architecture+Lover;🇪🇬+Digital+Egypt+Pioneers+Initiative+(DEPI)+Graduate" alt="Typing Animation" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=%F0%9F%90%98+Laravel+%7C+PHP+Developer;%E2%9A%9B%EF%B8%8F+React.js+Front-End+Experience;%F0%9F%9A%80+API+%26+Clean+Architecture+Lover;%F0%9F%87%AA%F0%9F%87%AC+DEPI+Graduate" 
+    alt="Typing Animation"
+  />
 </p>
+
 
 ---
 ## 🔹 Currently Focusing On
