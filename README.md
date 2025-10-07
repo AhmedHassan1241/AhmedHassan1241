@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ahmed Hassan
 
-A **Junior Laravel Back-End Developer** passionate about building scalable web applications and clean, maintainable code.
-Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands-on experience in both **Backend (Laravel/PHP)** and **Frontend (React.js)** development.
+A **Junior Laravel Back-End Developer** with a background in ⚛️ React.js and full-stack training through the 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)**.  
 
 ---
 ## 🔹 Currently Focusing On
