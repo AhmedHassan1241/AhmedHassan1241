@@ -51,24 +51,16 @@ Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedHassan1241\&theme=tokyonight)
 
 ---
-
-## 🧩 Featured Projects
-
-* 🛒 [Basic E-commerce CRUD](https://github.com/AhmedHassan1241/Basic-E-commerce-CRUD) — foundational CRUD system with a fake DB
-* 🎬 [Movie App](https://github.com/AhmedHassan1241/Movie-app) — React app fetching movies via API
-* 🌐 [Social App](https://github.com/AhmedHassan1241/Social-App) — interactive social platform with posts and comments
-
----
 ### 🚀 Pinned Projects
 
-| Project                                                                              | Description                                          | Tech Stack | Demo           |
-| ------------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------- |
-| 🎬[**Movie-app**](https://github.com/Ahmed-Hassan-1/Movie-app)                         | Movie browsing app using a custom API                | JavaScript | —              |
-| [**To-Do-List**](https://github.com/Ahmed-Hassan-1/To-Do-List)                       | Simple to-do list for task management                | JavaScript | —              |
-| [**Basic-E-commerce**](https://github.com/Ahmed-Hassan-1/Basic-E-commerce)           | Basic e-commerce frontend with fake DB server        | HTML       | —              |
-| [**Node-Ecommerce**](https://github.com/Ahmed-Hassan-1/Node-Ecommerce)               | E-commerce project using Node.js (no authentication) | JavaScript | —              |
-| 🛒 [**Basic-E-commerce-CRUD**](https://github.com/Ahmed-Hassan-1/Basic-E-commerce-CRUD) | CRUD-based e-commerce demo with fake store API       | JavaScript | —              |
-| [**Time-Prayer**](https://github.com/Ahmed-Hassan-1/Time-Prayer)                     | Islamic prayer time app                              | JavaScript | [Live Demo](#) |
+| 🧩 **Project**                                                                          | 📖 **Description**                                   | 🧠 **Tech Stack**                                                                                                   | 🚀 **Demo**       |
+| :-------------------------------------------------------------------------------------- | :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ | :---------------- |
+| 🎬 [**Movie-app**](https://github.com/Ahmed-Hassan-1/Movie-app)                         | Movie browsing app using a custom API                | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) | —                 |
+| 📝 [**To-Do-List**](https://github.com/Ahmed-Hassan-1/To-Do-List)                       | Simple to-do list for task management                | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) | —                 |
+| 🛍 [**Basic-E-commerce**](https://github.com/Ahmed-Hassan-1/Basic-E-commerce)           | Basic e-commerce frontend with fake DB server        | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)                | —                 |
+| 💻 [**Node-Ecommerce**](https://github.com/Ahmed-Hassan-1/Node-Ecommerce)               | E-commerce project using Node.js (no authentication) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)          | —                 |
+| 🛒 [**Basic-E-commerce-CRUD**](https://github.com/Ahmed-Hassan-1/Basic-E-commerce-CRUD) | CRUD-based e-commerce demo with fake store API       | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) | —                 |
+| 🕌 [**Time-Prayer**](https://github.com/Ahmed-Hassan-1/Time-Prayer)                     | Islamic prayer time app                              | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) | [🌐 Live Demo](#) |
 
 ## 🤝 Connect with Me
 
