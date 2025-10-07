@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3200&pause=800&color=00C4FF&center=true&vCenter=true&width=750&lines=💡+Code.+Build.+Learn.+Repeat.;🧩+Turning+Ideas+Into+Scalable+Solutions.;🌱+Always+Learning+%26+Growing+as+a+Developer.;🤝+Open+to+Junior+Backend+Roles." 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=3200&pause=800&color=00C4FF&center=true&vCenter=true&width=700&lines=💡+Code.+Build.+Learn.+Repeat.;🧩+Turning+Ideas+Into+Scalable+Solutions.;🌱+Always+Learning+%26+Growing+as+a+Developer.;🤝+Open+to+Junior+Backend+Roles." 
     alt="Ahmed Hassan Typing Animation 2"
   />
 </p>
