@@ -3,9 +3,11 @@
 🎯A **Junior Laravel Back-End Developer** with a background in ⚛️ React.js and full-stack training through the 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)**.  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4B0082&center=true&vCenter=true&width=500&lines=Junior+Laravel+Back-End+Developer;React.js+Enthusiast;Clean+Architecture+Practitioner;Always+Learning+🚀" alt="Typing Animation" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&center=true&vCenter=true&width=700&height=45&color=00BFFF&lines=👋+Hi%2C+I'm+Ahmed+Hassan;🐘+Junior+Laravel+%2F+PHP+Back-End+Developer;🚀+Building+Clean+and+Scalable+APIs;⚛️+React.js+Front-End+Background;💡+Passionate+About+Clean+Architecture+and+SOLID+Principles;🌱+Always+Learning+and+Improving" 
+    alt="Typing Animation"
+  />
 </p>
-
 
 
 
