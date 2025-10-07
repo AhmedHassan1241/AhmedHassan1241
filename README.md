@@ -4,10 +4,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&center=true&vCenter=true&width=700&height=45&color=00BFFF&lines=👋+Hi%2C+I'm+Ahmed+Hassan;🐘+Junior+Laravel+%2F+PHP+Back-End+Developer;🚀+Building+Clean+and+Scalable+APIs;⚛️+React.js+Front-End+Background;💡+Passionate+About+Clean+Architecture+and+SOLID+Principles;🌱+Always+Learning+and+Improving" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Ahmed+Hassan;🐘+Junior+Laravel+%2F+PHP+Back-End+Developer;🚀+Building+Clean+%26+Scalable+APIs;⚛️+React.js+Front-End+Background;🌱+Always+Learning+and+Improving" 
     alt="Typing Animation"
   />
 </p>
+
 
 
 
