@@ -4,14 +4,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=32&duration=2500&pause=900&color=F75C7E&center=true&vCenter=true&width=1000&lines=🐘+Laravel+%26+PHP+Backend+Developer;🧱+Clean+Architecture+%22+SOLID+Practitioner;⚛️+React.js+Front-End+Experience;🚀+API+%26+Database+Design+Enthusiast;🎓+Digital+Egypt+Pioneers+Initiative+(DEPI)+Graduate" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=32&duration=2500&pause=900&color=F75C7E&center=true&vCenter=true&width=800&lines=🐘+Laravel+%26+PHP+Backend+Developer;🧱+Clean+Architecture+%22+SOLID+Practitioner;⚛️+React.js+Front-End+Experience;🚀+API+%26+Database+Design+Enthusiast;🎓+Digital+Egypt+Pioneers+Initiative+(DEPI)+Graduate" 
     alt="Ahmed Hassan Typing Animation"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3200&pause=800&color=00C4FF&center=true&vCenter=true&width=850&lines=💡+Code.+Build.+Learn.+Repeat.;🧩+Turning+Ideas+Into+Scalable+Solutions.;🌱+Always+Learning+%26+Growing+as+a+Developer.;🤝+Open+to+Junior+Backend+Roles." 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3200&pause=800&color=00C4FF&center=true&vCenter=true&width=750&lines=💡+Code.+Build.+Learn.+Repeat.;🧩+Turning+Ideas+Into+Scalable+Solutions.;🌱+Always+Learning+%26+Growing+as+a+Developer.;🤝+Open+to+Junior+Backend+Roles." 
     alt="Ahmed Hassan Typing Animation 2"
   />
 </p>
