@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&center=true&vCenter=true&width=750&lines=%F0%9F%90%98+Laravel+%7C+PHP+Developer;%E2%9A%9B%EF%B8%8F+React.js+Front-End+Experience;%F0%9F%9A%80+API+%26+Clean+Architecture+Lover;%F0%9F%87%AA%F0%9F%87%AC+DEPI+Graduate" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=800&lines=%F0%9F%90%98+Laravel+%7C+PHP+Developer;%E2%9A%9B%EF%B8%8F+React.js+Front-End+Experience;%F0%9F%9A%80+API+%26+Clean+Architecture+Lover;%F0%9F%87%AA%F0%9F%87%AC+DEPI+Graduate" 
     alt="Typing Animation"
   />
 </p>
