@@ -59,6 +59,16 @@ Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands
 * 🌐 [Social App](https://github.com/AhmedHassan1241/Social-App) — interactive social platform with posts and comments
 
 ---
+### 🚀 Pinned Projects
+
+| Project                                                                              | Description                                          | Tech Stack | Demo           |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------- |
+| [**Movie-app**](https://github.com/Ahmed-Hassan-1/Movie-app)                         | Movie browsing app using a custom API                | JavaScript | —              |
+| [**To-Do-List**](https://github.com/Ahmed-Hassan-1/To-Do-List)                       | Simple to-do list for task management                | JavaScript | —              |
+| [**Basic-E-commerce**](https://github.com/Ahmed-Hassan-1/Basic-E-commerce)           | Basic e-commerce frontend with fake DB server        | HTML       | —              |
+| [**Node-Ecommerce**](https://github.com/Ahmed-Hassan-1/Node-Ecommerce)               | E-commerce project using Node.js (no authentication) | JavaScript | —              |
+| [**Basic-E-commerce-CRUD**](https://github.com/Ahmed-Hassan-1/Basic-E-commerce-CRUD) | CRUD-based e-commerce demo with fake store API       | JavaScript | —              |
+| [**Time-Prayer**](https://github.com/Ahmed-Hassan-1/Time-Prayer)                     | Islamic prayer time app                              | JavaScript | [Live Demo](#) |
 
 ## 🤝 Connect with Me
 
