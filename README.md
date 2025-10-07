@@ -3,18 +3,19 @@
 🎯A **Junior Laravel Back-End Developer** with a background in ⚛️ React.js and full-stack training through the 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)**.  
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=850&lines=🐘+Laravel+%26+PHP+Developer;⚙️+Backend+Engineer+%7C+API+Builder;🚀+Clean+Architecture+Enthusiast;🎓+DEPI+Graduate+%7C+React.js+Experience" 
-    alt="Typing Animation"
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2500&pause=900&color=F75C7E&center=true&vCenter=true&width=900&lines=🐘+Laravel+%26+PHP+Backend+Developer;🧱+Clean+Architecture+%26+SOLID+Practitioner;⚛️+React.js+Front-End+Experience;🚀+API+%26+Database+Design+Enthusiast;🎓+Digital+Egypt+Pioneers+Initiative+(DEPI)+Graduate" 
+    alt="Ahmed Hassan Typing Animation"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=800&lines=💡+Code.+Build.+Learn.+Repeat.;🔥+Passionate+About+Scalable+Apps.;🌱+Always+Learning+%26+Growing." 
-    alt="Typing Animation 2"
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3200&pause=800&color=00C4FF&center=true&vCenter=true&width=850&lines=💡+Code.+Build.+Learn.+Repeat.;🧩+Turning+Ideas+Into+Scalable+Solutions.;🌱+Always+Learning+%26+Growing+as+a+Developer.;🤝+Open+to+Junior+Backend+Roles." 
+    alt="Ahmed Hassan Typing Animation 2"
   />
 </p>
+
 
 
 
