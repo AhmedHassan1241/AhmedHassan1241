@@ -93,6 +93,12 @@ Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands
 | 🛒 [**Basic-E-commerce-CRUD**](https://github.com/Ahmed-Hassan-1/Basic-E-commerce-CRUD) | CRUD-based e-commerce demo with fake store API       | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) |
 | 🕌 [**Time-Prayer**](https://github.com/Ahmed-Hassan-1/Time-Prayer)                     | Islamic prayer time app                              | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) |
 
+## 🌱 Always Eager To
+
+![Learning](https://img.shields.io/badge/Grow_and_improve_my_skills-1E90FF?style=for-the-badge\&logo=bookstack\&logoColor=white)
+![Mentorship](https://img.shields.io/badge/Learn_from_experienced_developers-8A2BE2?style=for-the-badge\&logo=academia\&logoColor=white)
+![Contribute](https://img.shields.io/badge/Contribute_to_impactful_projects-00C853?style=for-the-badge\&logo=github\&logoColor=white)
+
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-hassan-622364108/)
