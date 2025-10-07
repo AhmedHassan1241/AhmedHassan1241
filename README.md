@@ -41,17 +41,17 @@ Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHassan\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassan\&layout=compact\&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedHassan\&theme=tokyonight)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHassan1241\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassan1241\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedHassan1241\&theme=tokyonight)
 
 ---
 
 ## 🧩 Featured Projects
 
-* 🛒 [Basic E-commerce CRUD](https://github.com/AhmedHassan/Basic-E-commerce-CRUD) — foundational CRUD system with a fake DB
-* 🎬 [Movie App](https://github.com/AhmedHassan/Movie-app) — React app fetching movies via API
-* 🌐 [Social App](https://github.com/AhmedHassan/Social-App) — interactive social platform with posts and comments
+* 🛒 [Basic E-commerce CRUD](https://github.com/AhmedHassan1241/Basic-E-commerce-CRUD) — foundational CRUD system with a fake DB
+* 🎬 [Movie App](https://github.com/AhmedHassan1241/Movie-app) — React app fetching movies via API
+* 🌐 [Social App](https://github.com/AhmedHassan1241/Social-App) — interactive social platform with posts and comments
 
 ---
 
