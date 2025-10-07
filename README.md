@@ -36,7 +36,7 @@ Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Key Skills 
 
 **Backend:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
@@ -63,6 +63,15 @@ Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge\&logo=cpanel\&logoColor=white)
+
+## 🧩 Concepts
+
+📚 **Core principles I apply and explore in backend development:**
+
+![SOLID](https://img.shields.io/badge/SOLID_Principles-4C1D95?style=for-the-badge\&logo=buffer\&logoColor=white)
+![OOD](https://img.shields.io/badge/Object_Oriented_Design-0A66C2?style=for-the-badge\&logo=objectgroup\&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4B0082?style=for-the-badge\&logo=architecture\&logoColor=white)
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-006400?style=for-the-badge\&logo=diagramproject\&logoColor=white)
 
 ---
 
