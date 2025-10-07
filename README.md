@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Ahmed Hassan
 
-A **Junior Laravel Back-End Developer** with a background in ⚛️ React.js and full-stack training through the 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)**.  
+🎯A **Junior Laravel Back-End Developer** with a background in ⚛️ React.js and full-stack training through the 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)**.  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=🐘+Laravel+%7C+PHP+Developer;⚛️+React.js+Front-End+Experience;🚀+API+%26+Clean+Architecture+Lover;🇪🇬+Digital+Egypt+Pioneers+Initiative+(DEPI)+Graduate" alt="Typing Animation" />
+</p>
 
 ---
 ## 🔹 Currently Focusing On
