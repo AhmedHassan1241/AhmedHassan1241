@@ -28,12 +28,11 @@ Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands
 
 ---
 
-## 🚀 About Me
+## 📌 Open To
 
-* 🐘 Currently mastering **Laravel**, **PHP**, and **MySQL**
-* ⚛️ Started with **React.js** to build interactive UIs
-* 💡 Interested in clean architecture, REST APIs, and software design principles
-* 🌱 Always learning, always improving
+💼 **Junior Laravel / PHP Back-End Developer Roles**
+
+🚀 **Opportunities to build scalable back-end solutions and grow my expertise**
 
 ---
 
