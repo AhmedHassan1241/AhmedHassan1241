@@ -2,19 +2,20 @@
 
 🎯A **Junior Laravel Back-End Developer** with a background in ⚛️ React.js and full-stack training through the 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)**.  
 
-<p align="center">
+<p align="center" style="background-color:#0D0D0D; padding:25px; border-radius:15px;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=900&center=true&vCenter=true&width=1400&color=FF0080;FF8C00;40E0D0;7B68EE;FF0080&lines=🐘+Junior+Laravel+%26+PHP+Backend+Developer;🧱+Clean+Architecture+%26+SOLID+Principles+Practitioner;⚛️+React.js+Front-End+Experience;🚀+Building+Scalable+%26+Maintainable+APIs;🎓+Digital+Egypt+Pioneers+Initiative+(DEPI)+Graduate"
-    alt="Ahmed Hassan Typing Animation Gradient"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=900&center=true&vCenter=true&width=1400&color=00FFAB;00CFFF;8A2BE2;FF00FF;FF0080&lines=🐘+Junior+Laravel+%26+PHP+Backend+Developer;🧱+Clean+Architecture+%26+SOLID+Principles+Practitioner;⚛️+React.js+Front-End+Experience;🚀+Building+Scalable+%26+Maintainable+APIs;🎓+Digital+Egypt+Pioneers+Initiative+(DEPI)+Graduate"
+    alt="Ahmed Hassan Typing Animation Neon Gradient"
   />
 </p>
 
-<p align="center" style="background-color:#0D0D0D; padding:20px; border-radius:10px;">
+<p align="center" style="background-color:#0D0D0D; padding:20px; border-radius:15px;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=3200&pause=800&center=true&vCenter=true&width=900&color=FF0080;FF8C00;40E0D0;7B68EE;FF0080&lines=💡+Code.+Build.+Learn.+Repeat.;🔥+Passionate+About+Clean+Code+%26+Real-World+Solutions.;🌱+Always+Learning+and+Improving+Every+Day.;🤝+Open+to+Junior+Laravel%2FPHP+Backend+Roles.;🚀+Driven+to+Create+Impactful+Projects."
-    alt="Ahmed Hassan Typing Animation Gradient 2"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=3200&pause=800&center=true&vCenter=true&width=900&color=00FFAB;00CFFF;8A2BE2;FF00FF;FF0080&lines=💡+Code.+Build.+Learn.+Repeat.;🔥+Passionate+About+Clean+Code+%26+Real-World+Solutions.;🌱+Always+Learning+and+Improving+Every+Day.;🤝+Open+to+Junior+Laravel%2FPHP+Backend+Roles.;🚀+Driven+to+Create+Impactful+Projects."
+    alt="Ahmed Hassan Typing Animation Neon Gradient 2"
   />
 </p>
+
 
 
 
