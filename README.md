@@ -4,6 +4,21 @@ A **Junior Laravel Back-End Developer** passionate about building scalable web a
 Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands-on experience in both **Backend (Laravel/PHP)** and **Frontend (React.js)** development.
 
 ---
+## 🔹 Currently Focusing On
+
+🚀 Constantly sharpening my backend and full-stack development skills:
+
+* 🐘 **Laravel & PHP** — building robust RESTful APIs, applying Clean Architecture principles, and managing data with MySQL.
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+* ⚛️ **React.js** — crafting dynamic and responsive user interfaces.
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+* 🟢 **Node.js & Express.js** — building backend APIs and integrating full-stack workflows.
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ## 🚀 About Me
 
