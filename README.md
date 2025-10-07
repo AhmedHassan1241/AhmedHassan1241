@@ -61,7 +61,7 @@ Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands
 **Tools & Platforms:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux_Bash_Commands-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge\&logo=cpanel\&logoColor=white)
 
 ## 🧩 Concepts
