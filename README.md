@@ -9,17 +9,10 @@ Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands
 🚀 Constantly sharpening my backend and full-stack development skills:
 
 * 🐘 **Laravel & PHP** — building robust RESTful APIs, applying Clean Architecture principles, and managing data with MySQL.
-* 
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 * ⚛️ **React.js** — crafting dynamic and responsive user interfaces.
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 * 🟢 **Node.js & Express.js** — building backend APIs and integrating full-stack workflows.
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ---
 
@@ -28,14 +21,10 @@ Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands
 💡 Things that drive me as a developer:
 
 * 🧼 **Writing clean, maintainable, and efficient code**
-  ![Clean Code](https://img.shields.io/badge/Clean_Code-1E90FF?style=for-the-badge\&logo=codefactor\&logoColor=white)
 
 * 🧩 **Solving real-world problems** through logic, creativity, and technology
-  ![Problem Solving](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge\&logo=thinkpad\&logoColor=white)
 
 * 🤝 **Team collaboration & continuous learning**
-  ![Collaboration](https://img.shields.io/badge/Teamwork-FFB400?style=for-the-badge\&logo=teamspeak\&logoColor=white)
-  ![Learning](https://img.shields.io/badge/Learning-8A2BE2?style=for-the-badge\&logo=bookstack\&logoColor=white)
 
 ---
 
