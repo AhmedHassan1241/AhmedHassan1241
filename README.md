@@ -3,11 +3,19 @@
 🎯A **Junior Laravel Back-End Developer** with a background in ⚛️ React.js and full-stack training through the 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)**.  
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=FF2D20&center=true&vCenter=true&width=850&lines=%F0%9F%90%98+Laravel+%7C+PHP+Developer;%F0%9F%92%BB+Backend+Engineer;%F0%9F%9A%80+API+%26+Clean+Architecture+Lover;%F0%9F%87%AA%F0%9F%87%AC+DEPI+Graduate"
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=900&lines=%F0%9F%90%98+Laravel+%26+PHP+Developer;⚙️+Backend+Engineer+%7C+API+Architect;%F0%9F%9A%80+Clean+Architecture+Enthusiast;%F0%9F%8E%93+React.js+Front-End+Experience;%F0%9F%87%AA%F0%9F%87%AC+Digital+Egypt+Pioneers+Initiative+(DEPI)+Graduate;🌱+Always+Learning+%26+Building" 
     alt="Typing Animation"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=800&lines=💡+Code.+Build.+Learn.+Repeat.;🔥+Passionate+About+Scalable+Web+Apps.;🚀+Driven+By+Innovation+%26+Growth." 
+    alt="Typing Animation 2"
+  />
+</p>
+
 
 
 ---
