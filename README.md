@@ -95,9 +95,9 @@ Trained through 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** with hands
 
 ## 🌱 Always Eager To
 
-![Learning](https://img.shields.io/badge/Grow_and_improve_my_skills-1E90FF?style=for-the-badge\&logo=bookstack\&logoColor=white)
-![Mentorship](https://img.shields.io/badge/Learn_from_experienced_developers-8A2BE2?style=for-the-badge\&logo=academia\&logoColor=white)
-![Contribute](https://img.shields.io/badge/Contribute_to_impactful_projects-00C853?style=for-the-badge\&logo=github\&logoColor=white)
+![Learning](https://img.shields.io/badge/Grow_and_improve_my_skills-1E90FF?style=for-the-badge\&logoColor=white)
+![Mentorship](https://img.shields.io/badge/Learn_from_experienced_developers-8A2BE2?style=for-the-badge\&logoColor=white)
+![Contribute](https://img.shields.io/badge/Contribute_to_impactful_projects-00C853?style=for-the-badge\&logoColor=white)
 
 ## 🤝 Connect with Me
 
