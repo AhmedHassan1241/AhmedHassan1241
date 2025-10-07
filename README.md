@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2500&pause=900&color=F75C7E&center=true&vCenter=true&width=900&lines=🐘+Laravel+%26+PHP+Backend+Developer;🧱+Clean+Architecture+%26+SOLID+Practitioner;⚛️+React.js+Front-End+Experience;🚀+API+%26+Database+Design+Enthusiast;🎓+Digital+Egypt+Pioneers+Initiative+(DEPI)+Graduate" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=36&duration=2500&pause=900&color=F75C7E&center=true&vCenter=true&width=850&lines=🐘+Laravel+%26+PHP+Backend+Developer;🧱+Clean+Architecture+%26+SOLID+Practitioner;⚛️+React.js+Front-End+Experience;🚀+API+%26+Database+Design+Enthusiast;🎓+Digital+Egypt+Pioneers+Initiative+(DEPI)+Graduate" 
     alt="Ahmed Hassan Typing Animation"
   />
 </p>
