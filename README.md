@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ahmed Hassan
-
+ 👋 Hi, I'm Ahmed Hassan
+ 
 <p align="center" style="background-color:#0D0D0D; padding:25px; border-radius:15px;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=900&center=true&vCenter=true&width=1400&color=00FFAB;00CFFF;8A2BE2;FF00FF;FF0080&lines=🐘+Mid-Level+Laravel+%26+PHP+Backend+Developer;🧱+Clean+Architecture+%26+SOLID+Principles+Practitioner;⚛️+React.js+%7C+Next.js+Front-End+Experience;🚀+Building+Scalable+SaaS+%26+Real-Time+APIs;💼+2+Years+Building+Production+Systems"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=900&center=true&vCenter=true&width=1400&color=00FFAB;00CFFF;8A2BE2;FF00FF;FF0080&lines=🐘+Mid-Level+Laravel+%26+PHP+Backend+Developer;🧱+Clean+Architecture+%26+SOLID+Principles+Practitioner;⚛️+React.js+%7C+Next.js+Front-End+Experience;🚀+Building+Scalable+SaaS+%26+Real-Time+APIs;🎓+Digital+Egypt+Pioneers+Initiative+(DEPI)+Graduate"
     alt="Ahmed Hassan Typing Animation"
   />
 </p>
@@ -12,34 +12,32 @@
     alt="Ahmed Hassan Typing Animation 2"
   />
 </p>
-
 ---
-
+ 
 ## 🧑‍💻 About Me
-
-**PHP/Laravel Backend Developer** with 2 years of experience building scalable, production-ready systems. Specialized in **RESTful API development**, **real-time features with Laravel Reverb**, and **multi-tenant SaaS architecture**. Experienced in **Clean Architecture** and **DDD concepts**, with a track record of shipping reliable solutions in both on-site and remote environments.
-
+ 
+Back-End Developer specialized in **PHP, Laravel, and MySQL**, with hands-on experience building scalable APIs and real-time applications across multiple companies. Completed the **DEPI Program**, gaining strong full-stack skills with **React, Node.js, Express.js, and MongoDB**. Proven ability to debug production issues, optimize queries, and deliver reliable solutions in both **team and remote settings**.
+ 
 ---
-
+ 
 ## 💼 Work Experience
-
+ 
 | 🏢 Company | 💼 Role | 📅 Period | 🌍 Type |
 |---|---|---|---|
 | **Hodaelnas - هدى للناس** | PHP Developer | Nov 2025 – Present | Remote |
 | **Ibtikar Gate** | PHP Developer | Aug 2025 – Present | Remote |
 | **Dotbytes** | PHP Developer | Jul 2024 – Jul 2025 | Hybrid |
 | **Digital Egypt Pioneers Initiative (DEPI)** | Front-End Developer (Internship) | Apr 2024 – Oct 2024 | On-site |
-
+ 
 ### 🔹 What I've Done
-- 🏗️ **Hodaelnas** — Contributed backend features to a multi-tenant SaaS platform serving nurseries and educational institutions with hundreds of concurrent users
-- ⚡ **Ibtikar Gate** — Optimized Laravel APIs, reducing production bottlenecks and improving overall stability
-- 🛠️ **Dotbytes** — Designed and delivered multiple RESTful APIs and improved MySQL query performance by ~40–50%
-- 🎓 **DEPI** — Gained full-stack exposure through building React.js applications and working with Node.js, Express.js, and MongoDB
-
+- 🏗️ **Hodaelnas** — Contributed backend features to a multi-tenant SaaS education platform following Clean Architecture.
+- ⚡ **Ibtikar Gate** — Optimized Laravel APIs, fixed production issues, and added real-time notification features.
+- 🛠️ **Dotbytes** — Developed PHP/Laravel backend features, designed RESTful APIs, and improved MySQL query performance.
+- 🎓 **DEPI** — Built full-stack apps with React.js, Node.js, Express.js, MongoDB, and Git.
 ---
-
+ 
 ## 🚀 Highlighted Projects
-
+ 
 | 🧩 Project | 📖 Description | 🧠 Tech Stack |
 |---|---|---|
 | 🎓 [**Hodaelnas Platform**](https://github.com/AhmedHassan1241) | Multi-tenant SaaS education platform with real-time features, WhatsApp API, and Flutter/Next.js APIs | Laravel 10, PHP 8.2, DDD, Docker, GitHub Actions, Laravel Reverb, JWT, Spatie |
@@ -51,11 +49,11 @@
 | 🙏 [**Time-Prayer**](https://github.com/Ahmed-Hassan-1/Time-Prayer) | Islamic prayer time app | JavaScript |
 | ✅ [**To-Do-List**](https://github.com/Ahmed-Hassan-1/To-Do-List) | Simple task management app | JavaScript |
 | 🛒 [**Node-Ecommerce**](https://github.com/Ahmed-Hassan-1/Node-Ecommerce) | E-commerce backend without authentication | Node.js |
-
+ 
 ---
-
+ 
 ## 🛠️ Skills
-
+ 
 **Backend:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -64,7 +62,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
+ 
 **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -74,11 +72,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+ 
 **Databases:**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+ 
 **DevOps & Tools:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -86,51 +84,51 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-
+ 
 **Auth & Integrations:**
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Spatie](https://img.shields.io/badge/Spatie_Permissions-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-
+ 
 ---
-
+ 
 ## 🧩 Concepts & Principles
-
+ 
 ![SOLID](https://img.shields.io/badge/SOLID-4C1D95?style=for-the-badge&logo=buffer&logoColor=white)
 ![OOD](https://img.shields.io/badge/OOD-0A66C2?style=for-the-badge&logo=objectgroup&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4B0082?style=for-the-badge&logoColor=white)
 ![DDD](https://img.shields.io/badge/DDD_Concepts-006400?style=for-the-badge&logoColor=white)
 ![AI-assisted Dev](https://img.shields.io/badge/AI--assisted_Development-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logoColor=white)
-
+ 
 ---
-
+ 
 ## 📊 GitHub Stats
-
+ 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHassan1241&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassan1241&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedHassan1241&theme=tokyonight)
-
+ 
 ---
-
+ 
 ## 📌 Open To
-
+ 
 💼 **Mid-Level Laravel / PHP Back-End Developer Roles**
-
+ 
 🌍 **Egypt | On-site · Hybrid · Remote**
-
+ 
 🚀 **Opportunities in SaaS platforms, real-time systems, and scalable APIs**
-
+ 
 ---
-
+ 
 ## 🤝 Connect with Me
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hassan-622364108/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-ahmed-hassan.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.hassan.1241999@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedHassan1241)
-
+ 
 ---
-
+ 
 ⭐ **"Code with purpose, learn with passion."**
