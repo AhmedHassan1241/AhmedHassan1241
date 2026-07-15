@@ -17,8 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-**PHP/Laravel Backend Developer** with 2 years of experience building scalable, production-ready systems. Specialized in **RESTful API development**, **real-time features with Laravel Reverb**, and **multi-tenant SaaS architecture**. Experienced in **Clean Architecture** and **DDD concepts**, with a track record of shipping reliable solutions in both on-site and remote environments.
-
+Backend Developer with 2 years of experience building scalable, production-ready systems, specialized in RESTful APIs, real-time architecture, and multi-tenant SaaS platforms. Comfortable across the stack including React-based frontends, and skilled in leveraging AI-assisted development to design and ship features faster. Track record of delivering reliable solutions on-site and remotely.
 ---
 
 ## 💼 Work Experience
